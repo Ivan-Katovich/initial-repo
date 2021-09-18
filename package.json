@@ -1,0 +1,18 @@
+{
+  "name": "proj",
+  "version": "1.0.0",
+  "description": "my project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "protractor",
+    "test"
+  ],
+  "author": "Ivan Kotovich",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
